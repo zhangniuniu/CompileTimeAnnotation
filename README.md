@@ -10,6 +10,25 @@ Annotation处理器在处理Annotation时可以根据源文件中的Annotation�
 2. AutoService 主要的作用是注解 processor 类，并对其生成 META-INF 的配置信息，引入Google的包实现(com.google.auto.service:auto-service:1.0-rc2)
 3. JavaPoet用了创建Java类，相比直接用StringBuilder拼接，好处在与规范的文档，最重要的是自动 import
 
+### 常用方法
+###### 常用Element子类
+
+1. TypeElement：类
+2. ExecutableElement：成员方法
+3. VariableElement：成员变量
+
+###### 通过包名和类名获取TypeName
+TypeName targetClassName = ClassName.get(“PackageName”, “ClassName”);
+
+###### 通过Element获取TypeName
+TypeName type = TypeName.get(element.asType());
+
+###### 获取TypeElement的包名
+String packageName = processingEnv.getElementUtils().getPackageOf(type).getQualifiedName().toString();
+
+###### 获取TypeElement的所有成员变量和成员方法
+List<? extends Element> members = processingEnv.getElementUtils().getAllMembers(typeElement);
+
 ```java
 @AutoService(Processor.class)
 @SupportedSourceVersion(SourceVersion.RELEASE_7)
