@@ -1,0 +1,103 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/zhangyong/Documents/GitHub/CompileTimeAnnotation/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/zhangyong/Documents/GitHub/CompileTimeAnnotation/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/zhangyong/Documents/GitHub/CompileTimeAnnotation/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/zhangyong/Documents/GitHub/CompileTimeAnnotation/app/src/main/AndroidManifest.xml:2:1-21:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/zhangyong/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/f229b30d0f0e216b33006634689eded3/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/zhangyong/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/1af52c5fa948ec20b34a85443a063ea9/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/zhangyong/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/e2e081c8f2074a532859c05d05557236/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/zhangyong/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/52f7ef2fac176dd5c1fc6a45a48246a7/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/zhangyong/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/63c6c42a2c444ea0c122eb105a07bff6/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/zhangyong/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/44e481937cf748f8530202b8008254e3/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/zhangyong/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/3c0395a126c4251ac43b9e9e77bd09b2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] /Users/zhangyong/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/9fbe56fd78b8c455dc07d0dccf5035c8/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/zhangyong/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/2142185ad10e04058ad3a246ce17ff3e/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/zhangyong/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/72f166bcc26040cd996c08263d312ce8/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/zhangyong/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/af7ac139f27f18f53166a3607e26b4a6/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /Users/zhangyong/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/0755e228b7c801bae98680aa79b29e25/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/zhangyong/Documents/GitHub/CompileTimeAnnotation/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/zhangyong/Documents/GitHub/CompileTimeAnnotation/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/zhangyong/Documents/GitHub/CompileTimeAnnotation/app/src/main/AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from /Users/zhangyong/Documents/GitHub/CompileTimeAnnotation/app/src/main/AndroidManifest.xml:3:5-36
+		INJECTED from /Users/zhangyong/Documents/GitHub/CompileTimeAnnotation/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/zhangyong/Documents/GitHub/CompileTimeAnnotation/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/zhangyong/Documents/GitHub/CompileTimeAnnotation/app/src/main/AndroidManifest.xml
+		ADDED from /Users/zhangyong/Documents/GitHub/CompileTimeAnnotation/app/src/main/AndroidManifest.xml:2:1-21:12
+		INJECTED from /Users/zhangyong/Documents/GitHub/CompileTimeAnnotation/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/zhangyong/Documents/GitHub/CompileTimeAnnotation/app/src/main/AndroidManifest.xml
+		ADDED from /Users/zhangyong/Documents/GitHub/CompileTimeAnnotation/app/src/main/AndroidManifest.xml:2:1-21:12
+		INJECTED from /Users/zhangyong/Documents/GitHub/CompileTimeAnnotation/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/zhangyong/Documents/GitHub/CompileTimeAnnotation/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /Users/zhangyong/Documents/GitHub/CompileTimeAnnotation/app/src/main/AndroidManifest.xml:5:5-19:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/zhangyong/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/1af52c5fa948ec20b34a85443a063ea9/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/zhangyong/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/1af52c5fa948ec20b34a85443a063ea9/AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from /Users/zhangyong/Documents/GitHub/CompileTimeAnnotation/app/src/main/AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from /Users/zhangyong/Documents/GitHub/CompileTimeAnnotation/app/src/main/AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from /Users/zhangyong/Documents/GitHub/CompileTimeAnnotation/app/src/main/AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from /Users/zhangyong/Documents/GitHub/CompileTimeAnnotation/app/src/main/AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from /Users/zhangyong/Documents/GitHub/CompileTimeAnnotation/app/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /Users/zhangyong/Documents/GitHub/CompileTimeAnnotation/app/src/main/AndroidManifest.xml:11:9-40
+activity#com.zhangniuniu.study.MainActivity
+ADDED from /Users/zhangyong/Documents/GitHub/CompileTimeAnnotation/app/src/main/AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from /Users/zhangyong/Documents/GitHub/CompileTimeAnnotation/app/src/main/AndroidManifest.xml:12:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/zhangyong/Documents/GitHub/CompileTimeAnnotation/app/src/main/AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from /Users/zhangyong/Documents/GitHub/CompileTimeAnnotation/app/src/main/AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from /Users/zhangyong/Documents/GitHub/CompileTimeAnnotation/app/src/main/AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/zhangyong/Documents/GitHub/CompileTimeAnnotation/app/src/main/AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from /Users/zhangyong/Documents/GitHub/CompileTimeAnnotation/app/src/main/AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from /Users/zhangyong/Documents/GitHub/CompileTimeAnnotation/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/zhangyong/Documents/GitHub/CompileTimeAnnotation/app/src/main/AndroidManifest.xml
+INJECTED from /Users/zhangyong/Documents/GitHub/CompileTimeAnnotation/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/zhangyong/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/f229b30d0f0e216b33006634689eded3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/zhangyong/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/f229b30d0f0e216b33006634689eded3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/zhangyong/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/1af52c5fa948ec20b34a85443a063ea9/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/zhangyong/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/1af52c5fa948ec20b34a85443a063ea9/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/zhangyong/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/e2e081c8f2074a532859c05d05557236/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/zhangyong/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/e2e081c8f2074a532859c05d05557236/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/zhangyong/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/52f7ef2fac176dd5c1fc6a45a48246a7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/zhangyong/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/52f7ef2fac176dd5c1fc6a45a48246a7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/zhangyong/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/63c6c42a2c444ea0c122eb105a07bff6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/zhangyong/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/63c6c42a2c444ea0c122eb105a07bff6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/zhangyong/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/44e481937cf748f8530202b8008254e3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/zhangyong/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/44e481937cf748f8530202b8008254e3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/zhangyong/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/3c0395a126c4251ac43b9e9e77bd09b2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/zhangyong/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/3c0395a126c4251ac43b9e9e77bd09b2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/zhangyong/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/9fbe56fd78b8c455dc07d0dccf5035c8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/zhangyong/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/9fbe56fd78b8c455dc07d0dccf5035c8/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/zhangyong/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/2142185ad10e04058ad3a246ce17ff3e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/zhangyong/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/2142185ad10e04058ad3a246ce17ff3e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/zhangyong/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/72f166bcc26040cd996c08263d312ce8/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/zhangyong/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/72f166bcc26040cd996c08263d312ce8/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/zhangyong/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/af7ac139f27f18f53166a3607e26b4a6/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/zhangyong/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/af7ac139f27f18f53166a3607e26b4a6/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/zhangyong/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/0755e228b7c801bae98680aa79b29e25/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/zhangyong/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/0755e228b7c801bae98680aa79b29e25/AndroidManifest.xml:20:5-44
+INJECTED from /Users/zhangyong/Documents/GitHub/CompileTimeAnnotation/app/src/main/AndroidManifest.xml
+INJECTED from /Users/zhangyong/Documents/GitHub/CompileTimeAnnotation/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/zhangyong/Documents/GitHub/CompileTimeAnnotation/app/src/main/AndroidManifest.xml
+		ADDED from /Users/zhangyong/Documents/GitHub/CompileTimeAnnotation/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/zhangyong/Documents/GitHub/CompileTimeAnnotation/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/zhangyong/Documents/GitHub/CompileTimeAnnotation/app/src/main/AndroidManifest.xml
+		ADDED from /Users/zhangyong/Documents/GitHub/CompileTimeAnnotation/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/zhangyong/Documents/GitHub/CompileTimeAnnotation/app/src/main/AndroidManifest.xml
