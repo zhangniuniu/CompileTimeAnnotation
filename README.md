@@ -97,8 +97,8 @@ public class BindViewProcessor extends AbstractProcessor {
 
         }
 
-
-        return false;
+        //该方法返回ture表示该注解已经被处理, 后续不会再有其他处理器处理; 返回false表示仍可被其他处理器处理.
+        return true;
     }
 
 
